@@ -1,10 +1,13 @@
 [package]
 name = "tmrz"
-version = "0.1.6"
+version = "0.1.61"
 edition = "2021"
 description = "Just a very basic timer"
+repository = "https://github.com/Pakelz/trmz.git"
 license = "MIT OR Apache-2.0"
 readme = "README.md"
+keywords = ["rust", "library", "example"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 notify-rust = "4.11.4"
