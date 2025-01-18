@@ -1,0 +1,9 @@
+[package]
+name = "tmr"
+version = "0.1.4"
+edition = "2021"
+description = "Just a very basic timer"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+
+[dependencies]

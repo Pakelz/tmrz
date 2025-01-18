@@ -1,0 +1,8 @@
+[package]
+name = "timer_by_pakel"
+version = "0.1.0"
+edition = "2021"
+description = "Just a very basic timer"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
