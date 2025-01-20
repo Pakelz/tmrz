@@ -1,9 +1,9 @@
 [package]
 name = "tmrz"
-version = "0.1.61"
+version = "0.1.62"
 edition = "2021"
 description = "Just a very basic timer"
-repository = "https://github.com/Pakelz/trmz.git"
+repository = "https://github.com/Pakelz/tmrz"
 license = "MIT OR Apache-2.0"
 readme = "README.md"
 keywords = ["rust", "library", "example"]
