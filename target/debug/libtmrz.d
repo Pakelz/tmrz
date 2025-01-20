@@ -1,1 +1,1 @@
-/home/pakel/Dev/trmz/target/debug/libtmrz.rlib: /home/pakel/Dev/trmz/src/lib.rs
+/home/pakel/Dev/tmrz/target/debug/libtmrz.rlib: /home/pakel/Dev/tmrz/src/lib.rs
