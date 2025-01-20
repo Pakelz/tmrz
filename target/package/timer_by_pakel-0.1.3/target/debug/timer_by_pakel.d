@@ -1,1 +1,0 @@
-/home/pakel/Dev/timer/target/package/timer_by_pakel-0.1.3/target/debug/timer_by_pakel: /home/pakel/Dev/timer/target/package/timer_by_pakel-0.1.3/src/lib.rs /home/pakel/Dev/timer/target/package/timer_by_pakel-0.1.3/src/main.rs
